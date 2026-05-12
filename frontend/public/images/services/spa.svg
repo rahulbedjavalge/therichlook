@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Spa and massage service">
+  <rect width="800" height="450" fill="#f7efde" />
+  <rect x="120" y="120" width="560" height="220" rx="26" fill="#fff" stroke="#e8d4a6" stroke-width="4" />
+  <rect x="170" y="200" width="300" height="45" rx="22" fill="#d9be87" />
+  <circle cx="560" cy="205" r="40" fill="#c88f37" />
+  <path d="M560 145c16 12 24 28 24 48" stroke="#efd9a7" stroke-width="8" fill="none" stroke-linecap="round" />
+  <path d="M610 150c10 9 16 18 18 30" stroke="#efd9a7" stroke-width="6" fill="none" stroke-linecap="round" />
+  <text x="186" y="295" fill="#6f5a33" font-size="32" font-family="Arial, sans-serif">Spa & Massage</text>
+</svg>

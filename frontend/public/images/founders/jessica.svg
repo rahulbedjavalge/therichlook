@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Founder Jessica Chen">
+  <rect width="600" height="600" fill="#f7efdd" />
+  <circle cx="300" cy="220" r="108" fill="#222d3e" />
+  <rect x="190" y="340" width="220" height="170" rx="26" fill="#a77429" />
+  <text x="300" y="550" text-anchor="middle" fill="#6f5a33" font-size="34" font-family="Arial, sans-serif">Jessica Chen</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Salon interior illustration">
+  <rect width="1200" height="800" fill="#f8f3e9" />
+  <rect x="70" y="90" width="1060" height="620" rx="28" fill="#fff" stroke="#e9d9b5" stroke-width="6" />
+  <rect x="130" y="180" width="300" height="420" rx="18" fill="#222d3e" />
+  <rect x="480" y="180" width="270" height="170" rx="18" fill="#f7edd9" />
+  <rect x="790" y="180" width="270" height="170" rx="18" fill="#f7edd9" />
+  <rect x="480" y="390" width="580" height="210" rx="18" fill="#fff9ee" stroke="#ecd9ac" stroke-width="4" />
+  <circle cx="280" cy="300" r="72" fill="#c88f37" />
+  <rect x="210" y="405" width="140" height="110" rx="12" fill="#efd9a7" />
+  <text x="510" y="505" fill="#6f5a33" font-size="34" font-family="Arial, sans-serif">The Rich Look Saloon</text>
+</svg>

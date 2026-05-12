@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Hair care blog image">
+  <rect width="1200" height="700" fill="#f6ecda" />
+  <rect x="130" y="120" width="940" height="460" rx="28" fill="#fff" stroke="#ead5a4" stroke-width="5" />
+  <circle cx="330" cy="350" r="112" fill="#222d3e" />
+  <circle cx="330" cy="350" r="62" fill="#efd9a7" />
+  <rect x="520" y="250" width="430" height="38" rx="19" fill="#c88f37" />
+  <rect x="520" y="312" width="360" height="26" rx="13" fill="#d9bf89" />
+  <rect x="520" y="356" width="390" height="26" rx="13" fill="#e3cca0" />
+  <text x="520" y="438" fill="#6f5a33" font-size="44" font-family="Arial, sans-serif">Healthy Hair Care</text>
+</svg>

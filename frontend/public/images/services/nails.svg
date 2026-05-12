@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Nail art service">
+  <rect width="800" height="450" fill="#f8f1e4" />
+  <rect x="110" y="120" width="580" height="230" rx="24" fill="#fff" stroke="#ecdab0" stroke-width="4" />
+  <rect x="170" y="190" width="360" height="36" rx="18" fill="#222d3e" />
+  <rect x="170" y="242" width="260" height="30" rx="15" fill="#c88f37" />
+  <circle cx="570" cy="200" r="26" fill="#efd9a7" />
+  <circle cx="620" cy="200" r="26" fill="#c88f37" />
+  <circle cx="595" cy="245" r="26" fill="#a77429" />
+  <text x="170" y="320" fill="#6f5a33" font-size="32" font-family="Arial, sans-serif">Nail Art & Care</text>
+</svg>

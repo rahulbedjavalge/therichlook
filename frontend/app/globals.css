@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-primary: #c88f37;
+  --brand-primary-dark: #a77429;
+  --brand-accent: #efd9a7;
+  --brand-ink: #222d3e;
+  --brand-cream: #f8f3e9;
+  --brand-muted: #576072;
+  --brand-soft-gold: #f1e3bf;
+}
+
+.text-brand-primary { color: var(--brand-primary); }
+.text-brand-primary-dark { color: var(--brand-primary-dark); }
+.text-brand-accent { color: var(--brand-accent); }
+.text-brand-ink { color: var(--brand-ink); }
+.text-brand-muted { color: var(--brand-muted); }
+.bg-brand-primary { background-color: var(--brand-primary); }
+.bg-brand-primary-dark { background-color: var(--brand-primary-dark); }
+.bg-brand-ink { background-color: var(--brand-ink); }
+.bg-brand-cream { background-color: var(--brand-cream); }
+.bg-brand-soft-gold { background-color: var(--brand-soft-gold); }
+.border-brand-soft-gold { border-color: var(--brand-soft-gold); }
+
+@layer base {
+  body {
+    @apply text-gray-900;
+    background-color: var(--brand-cream);
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 text-white font-semibold rounded-lg transition-colors;
+    background-color: var(--brand-primary);
+  }
+
+  .btn-primary:hover {
+    background-color: var(--brand-primary-dark);
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 font-semibold rounded-lg transition-colors;
+    color: var(--brand-ink);
+    background-color: var(--brand-soft-gold);
+  }
+
+  .btn-secondary:hover {
+    background-color: #e9d5a1;
+  }
+}

@@ -1,0 +1,10 @@
+# Services Images Directory
+
+Add service category images in this directory.
+
+## Image Files Expected:
+- haircut.jpg    (Haircut & Styling service)
+- spa.jpg        (Spa & Massage service)
+- nails.jpg      (Nail Art service)
+
+See ../README.md for detailed image specifications.

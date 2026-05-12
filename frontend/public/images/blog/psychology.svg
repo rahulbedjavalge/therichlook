@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Self care psychology blog image">
+  <rect width="1200" height="700" fill="#f7efe0" />
+  <rect x="120" y="120" width="960" height="460" rx="28" fill="#fff" stroke="#ebd8ad" stroke-width="5" />
+  <circle cx="310" cy="350" r="110" fill="#222d3e" />
+  <circle cx="310" cy="350" r="56" fill="#c88f37" />
+  <rect x="520" y="250" width="430" height="38" rx="19" fill="#c88f37" />
+  <rect x="520" y="312" width="350" height="24" rx="12" fill="#d8bb82" />
+  <rect x="520" y="352" width="390" height="24" rx="12" fill="#e6d0a5" />
+  <text x="520" y="430" fill="#6f5a33" font-size="43" font-family="Arial, sans-serif">Self Care Psychology</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Spa blog image">
+  <rect width="1200" height="700" fill="#f8f0df" />
+  <rect x="120" y="120" width="960" height="460" rx="28" fill="#fff" stroke="#ead6aa" stroke-width="5" />
+  <rect x="250" y="280" width="280" height="80" rx="40" fill="#d9be87" />
+  <circle cx="620" cy="320" r="60" fill="#c88f37" />
+  <path d="M620 240c24 18 36 40 36 68" stroke="#efd9a7" stroke-width="10" fill="none" stroke-linecap="round" />
+  <rect x="730" y="250" width="260" height="30" rx="15" fill="#222d3e" />
+  <rect x="730" y="300" width="220" height="22" rx="11" fill="#d8bc84" />
+  <text x="730" y="390" fill="#6f5a33" font-size="44" font-family="Arial, sans-serif">Spa At Home</text>
+</svg>

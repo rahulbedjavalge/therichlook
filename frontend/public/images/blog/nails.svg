@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Nail color blog image">
+  <rect width="1200" height="700" fill="#f7eede" />
+  <rect x="125" y="120" width="950" height="460" rx="28" fill="#fff" stroke="#ead6a8" stroke-width="5" />
+  <rect x="250" y="280" width="360" height="46" rx="23" fill="#222d3e" />
+  <rect x="250" y="345" width="280" height="34" rx="17" fill="#c88f37" />
+  <circle cx="760" cy="300" r="38" fill="#efd9a7" />
+  <circle cx="825" cy="300" r="38" fill="#c88f37" />
+  <circle cx="792" cy="360" r="38" fill="#a77429" />
+  <text x="250" y="450" fill="#6f5a33" font-size="46" font-family="Arial, sans-serif">Choose Nail Colors</text>
+</svg>

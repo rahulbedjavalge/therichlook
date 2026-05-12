@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Haircut and styling service">
+  <rect width="800" height="450" fill="#f6ecd7" />
+  <circle cx="220" cy="230" r="90" fill="#222d3e" />
+  <rect x="320" y="150" width="320" height="170" rx="20" fill="#fff" />
+  <rect x="360" y="190" width="220" height="20" rx="10" fill="#d9be87" />
+  <rect x="360" y="230" width="180" height="20" rx="10" fill="#e3cca0" />
+  <path d="M120 330l80-130 22 14-80 130z" fill="#c88f37" />
+  <path d="M178 336l90-140 22 14-90 140z" fill="#a77429" />
+  <text x="330" y="298" fill="#6f5a33" font-size="30" font-family="Arial, sans-serif">Haircut & Styling</text>
+</svg>
